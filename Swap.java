@@ -4,14 +4,14 @@ public class Swap {
 		
 		int a=10;
 		int b=20;
-		System.out.println("before swaping"+a);
-		System.out.println("before swapping"+b);
+		System.out.println("before swaping a is"+a);
+		System.out.println("before swapping b is"+b);
 		int temp;
 		temp=a;
 		a=b;
 		b=temp;
-		System.out.println("after swaping"+a);
-		System.out.println("after swapping"+b);
+		System.out.println("after swaping a is"+a);
+		System.out.println("after swapping b is"+b);
 
 	}
 
