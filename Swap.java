@@ -2,8 +2,8 @@ public class Swap {
 
 	public static void main(String[] args) {
 		
-		int a=10;
-		int b=20;
+		int a=100;
+		int b=200;
 		System.out.println("before swaping a is"+a);
 		System.out.println("before swapping b is"+b);
 		int temp;
